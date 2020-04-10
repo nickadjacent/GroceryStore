@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/bin/Debug/netcoreapp2.2/GroceryShoppingOOP.deps.json
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/bin/Debug/netcoreapp2.2/GroceryShoppingOOP.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/bin/Debug/netcoreapp2.2/GroceryShoppingOOP.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/bin/Debug/netcoreapp2.2/GroceryShoppingOOP.dll
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/bin/Debug/netcoreapp2.2/GroceryShoppingOOP.pdb
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/obj/Debug/netcoreapp2.2/GroceryShoppingOOP.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/obj/Debug/netcoreapp2.2/GroceryShoppingOOP.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/obj/Debug/netcoreapp2.2/GroceryShoppingOOP.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/obj/Debug/netcoreapp2.2/GroceryShoppingOOP.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/obj/Debug/netcoreapp2.2/GroceryShoppingOOP.dll
+/Users/cthulhu/Documents/Dojo/C#/OOP/GroceryShoppingOOP/obj/Debug/netcoreapp2.2/GroceryShoppingOOP.pdb
